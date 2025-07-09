@@ -4,8 +4,8 @@ import "react-toastify/dist/ReactToastify.css";
 
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
-import JobList from "./pages/jobList";
-import JobDetails from "./pages/jobDetails";
+import JobDetails from "./pages/JobDetails";
+import JobList from "./pages/JobList";
 import EmployerDashboard from "./pages/EmployerDashboard";
 import CandidateDashboard from "./pages/CandidateDashboard";
 import Login from "./pages/Login";
